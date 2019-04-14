@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "45032130283",
+    "firebase_url": "https://vplayer-40454.firebaseio.com",
+    "project_id": "vplayer-40454",
+    "storage_bucket": "vplayer-40454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45032130283:android:61d5b912a711ee2b",
+        "android_client_info": {
+          "package_name": "com.example.vinit.vplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45032130283-squp3lbk3r35u08il2bvmokh6eqvcevg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinit.vplayer",
+            "certificate_hash": "6662facb06828483fc5c97f5cd963381bf0e2558"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ae4siUla8T8E2QNsENLKimoaiGWRbaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45032130283-98u7c0sa683p2kb0tppjgqeha4ovpo78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
